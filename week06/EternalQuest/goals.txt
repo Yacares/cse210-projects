@@ -1,0 +1,4 @@
+160
+SimpleGoal,simple,sadasasdsadassda,20,True
+ChecklistGoal,checklist,sdasdsdasdassadddadasds,20,2,2,60
+EternalGoal,eternal,quest for jesus,40,false
